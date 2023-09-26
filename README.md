@@ -1,6 +1,20 @@
-Hi, I’m @ruben-spr
+Hello, I’m @ruben-spr
 
-<!---
-ruben-spr/ruben-spr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+working as a Full Stack Developer in german healthcare focusing on python front end development and backend development aswell DevOps and Scrum.
+
+- python
+- fastapi
+- flask
+- quart
+- SQL
+- noSQL
+- IAM
+- IAC
+- Observability
+- CICD
+- DevOps
+- Kubernetes
+- Docker / Docker-Compose
+- Security
+- linux
+- webserver
