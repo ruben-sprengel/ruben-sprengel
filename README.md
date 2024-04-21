@@ -1,3 +1,5 @@
 Hello, I’m @ruben-spr
 
-i am working as a Full Stack Developer focusing on front end development and backend development aswell DevOps, DevSecOps, IT Security and Scrum.
+i am a Full Stack Developer (Python, JS/TS) with a strong expertise in DevOps, DevSecOps, IT Security and Scrum.
+
+Get more information about me at my personal website (tbd).
