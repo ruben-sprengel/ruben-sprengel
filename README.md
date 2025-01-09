@@ -1,5 +1,7 @@
-Hello, I’m @ruben-sprengel
+# Hi,
 
-i am a Full Stack Developer (Python, JS/TS) with a strong expertise in DevOps, DevSecOps, IT Security and Scrum.
+my name Ruben Sprengel.
 
-Get more information about me at my personal website (tbd).
+I am a Full Stack Developer from Germany with additionally a strong experties in DevOps, DevSecOps, IT Security, Data Engineering and Scrum.
+
+I love to solve problems, help other people and to learn new stuff.
