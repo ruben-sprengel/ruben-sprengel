@@ -10,7 +10,7 @@ Programming Languages:
 
 Core Tech Stack:
 - FastAPI, Flask, Flask Admin
-- Angular, Anfular Material
+- Angular, Angular Material
 
 Databases:
 - SQL Databases
