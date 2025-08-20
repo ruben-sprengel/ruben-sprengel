@@ -26,5 +26,5 @@ My personal website serves as a central platform to showcase my projects, skills
 You can learn more about me and my work on my personal website or connect with me on social media:
 
 * **Website:** WIP
-* **GitHub:** [ruben-sprengel](https://github.com/ruben-sprengel)
-* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ruben-sprengel)
+* **GitHub:** [https://github.com/ruben-sprengel](https://github.com/ruben-sprengel)
+* **LinkedIn:** [https://www.linkedin.com/in/ruben-sprengel](https://www.linkedin.com/in/ruben-sprengel)
