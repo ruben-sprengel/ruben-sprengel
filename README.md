@@ -20,11 +20,12 @@ My personal website serves as a central platform to showcase my projects, skills
 
 * **Technologies:** Svelte, SvelteKit, TailwindCSS, shadcn/svelte, TypeScript
 * **GitHub:** [https://github.com/ruben-sprengel/personal-website](https://github.com/ruben-sprengel/personal-website)
+* **Website:** [https://ruben-sprengel.de](https://ruben-sprengel.de)
 
 ## 🤝 Let's Connect
 
 You can learn more about me and my work on my personal website or connect with me on social media:
 
-* **Website:** WIP
+* **Website:** [https://ruben-sprengel.de](https://ruben-sprengel.de)
 * **GitHub:** [https://github.com/ruben-sprengel](https://github.com/ruben-sprengel)
 * **LinkedIn:** [https://www.linkedin.com/in/ruben-sprengel](https://www.linkedin.com/in/ruben-sprengel)
