@@ -19,7 +19,6 @@ A compact Live Templates plugin for JetBrains IDEs like WebStorm and IntelliJ ID
 My personal website serves as a central platform to showcase my projects, skills, and experience as a software developer. It was built with modern web technologies to function as my digital portfolio.
 
 * **Technologies:** Svelte, SvelteKit, TailwindCSS, shadcn/svelte, TypeScript
-* **GitHub:** [https://github.com/ruben-sprengel/personal-website](https://github.com/ruben-sprengel/personal-website)
 * **Website:** [https://ruben-sprengel.de](https://ruben-sprengel.de)
 
 ## 🤝 Let's Connect
