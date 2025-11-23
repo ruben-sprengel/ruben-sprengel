@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Ruben Sprengel!
+# Hello, I'm Ruben Sprengel!
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, open-source contributions, and experiments in software development.
 
-## 💻 My Projects
+## My Projects
 
 Here are some of the projects I'm currently working on.
 
@@ -21,7 +21,7 @@ My personal website serves as a central platform to showcase my projects, skills
 * **Technologies:** Svelte, SvelteKit, TailwindCSS, shadcn/svelte, TypeScript
 * **Website:** [https://ruben-sprengel.de](https://ruben-sprengel.de)
 
-## 🤝 Let's Connect
+## Let's Connect
 
 You can learn more about me and my work on my personal website or connect with me on social media:
 
