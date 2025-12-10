@@ -6,21 +6,28 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 
 Here are some of the projects I'm currently working on.
 
-### **Jetbrains Svelte Templates**
+### Jetbrains Svelte Templates
 
 A compact Live Templates plugin for JetBrains IDEs like WebStorm and IntelliJ IDEA Ultimate. It was developed to speed up Svelte & SvelteKit development by quickly inserting essential code snippets, optimizing your workflow.
 
-* **Technologies:** Svelte, SvelteKit, Jetbrains Plugin
-* **GitHub:** [https://github.com/ruben-sprengel/jetbrains-svelte-templates](https://github.com/ruben-sprengel/jetbrains-svelte-templates)
-* **Jetbrains Marketplace:** [https://plugins.jetbrains.com/plugin/28046-svelte-templates](https://plugins.jetbrains.com/plugin/28046-svelte-templates)
+* Technologies: Svelte, SvelteKit, Jetbrains Plugin
+* GitHub: [https://github.com/ruben-sprengel/jetbrains-svelte-templates](https://github.com/ruben-sprengel/jetbrains-svelte-templates)
+* Jetbrains Marketplace: [https://plugins.jetbrains.com/plugin/28046-svelte-templates](https://plugins.jetbrains.com/plugin/28046-svelte-templates)
 
-### **Personal Website**
+### Personal Website
 
 My personal website serves as a central platform to showcase my projects, skills, and experience as a software developer. It was built with modern web technologies to function as my digital portfolio.
 
-* **Technologies:** Svelte, SvelteKit, TailwindCSS, shadcn/svelte, TypeScript
-* **GitHub:** [https://github.com/ruben-sprengel/personal-website](https://github.com/ruben-sprengel/personal-website)
-* **Website:** [https://ruben-sprengel.de](https://ruben-sprengel.de)
+* Technologies: Svelte, SvelteKit, TailwindCSS, shadcn/svelte, TypeScript
+* GitHub: [https://github.com/ruben-sprengel/personal-website](https://github.com/ruben-sprengel/personal-website)
+* Website: [https://ruben-sprengel.de](https://ruben-sprengel.de)
+
+### VigilCD
+
+VigilCD is a lightweight GitOps deployment agent that automatically monitors Git repositories and performs Docker Compose deployments on changes. Built for self-hosted environments with support for private repositories and Docker registries.
+
+* Technologies: fastAPI, Python
+* GitHub: [https://github.com/ruben-sprengel/vigil-cd](https://github.com/ruben-sprengel/vigil-cd)
 
 ## Let's Connect
 
