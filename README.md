@@ -26,7 +26,7 @@ My personal website serves as a central platform to showcase my projects, skills
 
 VigilCD is a lightweight GitOps deployment agent that automatically monitors Git repositories and performs Docker Compose deployments on changes. Built for self-hosted environments with support for private repositories and Docker registries.
 
-* Technologies: fastAPI, Python
+* Technologies: FastAPI, Python
 * GitHub: [https://github.com/ruben-sprengel/vigil-cd](https://github.com/ruben-sprengel/vigil-cd)
 
 ## Let's Connect
